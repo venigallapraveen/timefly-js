@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/venigallapraveen/timefly-js/issues"
   },
-  "homepage": "https://github.com/venigallapraveen/timefly-js#readme"
+  "homepage": "https://github.com/venigallapraveen/timefly-js#readme",
+  "dependencies": {
+    "dayjs": "^1.8.17"
+  }
 }
