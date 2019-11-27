@@ -1,6 +1,6 @@
 {
   "name": "timefly-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "javascript time utility functions",
   "main": "time.js",
   "scripts": {
